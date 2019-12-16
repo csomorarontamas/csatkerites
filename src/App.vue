@@ -8,8 +8,8 @@
           <b-nav-item href="kerites.txt">kerites.txt</b-nav-item>
           <b-nav-item href="Kerítés_fel.pdf">Feladat.pdf</b-nav-item>
           <b-nav-item href="Kerítés_jav.pdf">Javítási.pdf</b-nav-item>
-          <b-nav-item href="https://github.com/nitslaszlo/ErettsegiKeritesTsVueJs">GitHub</b-nav-item>
-          <b-nav-item href="https://github.com/nitslaszlo/JedlikVueJsStarter">SDK</b-nav-item>
+          <b-nav-item href="https://github.com/csomorarontamas/csatkerites">GitHub</b-nav-item>
+          <b-nav-item href="https://github.com/csomorarontamas">SDK</b-nav-item>
         </b-navbar-nav>
       </b-collapse>
     </b-navbar>
